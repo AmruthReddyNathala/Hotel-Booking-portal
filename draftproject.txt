@@ -1,0 +1,21 @@
+Required draft for hotel Booking portal
+
+Database design : 
+	Tables Required -
+	1.Authorised Users List
+	2.Hotels list
+	3.Rooms list
+      4.Enquries table
+      5.admin user table
+Flow of the project:
+     1.admin adds the hotels and Rooms
+     2.user visits the site
+     3.view hotels list
+     4.view rooms list
+     5.booking
+     6.acceptance by the hotel admin
+     7.pop up succesfully booked or rejected
+software reqirements
+    Database: SqlServerManagementStudio
+    Frontend: ReactJS
+    Backend: c#
